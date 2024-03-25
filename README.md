@@ -1,1 +1,1 @@
-just a practice to understand the git commands 
+just a practice to understand the commands 
